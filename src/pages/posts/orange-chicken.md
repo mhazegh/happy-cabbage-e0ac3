@@ -14,3 +14,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 - Lorem ipsum
 - dolor sit amet
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
