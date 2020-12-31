@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 - Lorem ipsum
 - dolor sit amet
 
-![Test](./images/marvelous-tulip.jpg)
+![Test](/images/marvelous-tulip.jpg)
