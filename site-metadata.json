@@ -26,14 +26,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ]
     },
