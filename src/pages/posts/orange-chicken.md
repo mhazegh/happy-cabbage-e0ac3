@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 - Lorem ipsum
 - dolor sit amet
 
-![Blah](images/2012-05-13_14-44-34_892.jpg)
+![Blah](images/1.jpg)
